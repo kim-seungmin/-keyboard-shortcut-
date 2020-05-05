@@ -13,6 +13,7 @@
 |Alt+Shift+S|퀵메뉴|
 |Alt+←, Alt+→|열린 소스 창 이동|
 |Ctrl+1|빠른 교정(메소드 추가, 빨간줄 고침)|
+|Ctrl + Shift + F|줄정렬|
 |Ctrl + Shift + O|import문 자동 생성|
 |Alt + Shift + V|이동(클래스, 인터페이스 등)|
 |Ctrl + D|한줄 삭제|
