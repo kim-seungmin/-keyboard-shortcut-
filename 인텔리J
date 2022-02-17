@@ -3,5 +3,8 @@ memberRepository.findByName(member.getName());
 ->
 Optional<Member> byName = memberRepository.findByName(member.getName());
 
-ctl+alt+shit+t 
+ctl+alt+shift+t 
 리펙터(extract method)
+
+shift+f6
+이름변경
