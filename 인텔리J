@@ -1,0 +1,7 @@
+ctl+alt+v
+memberRepository.findByName(member.getName());
+->
+Optional<Member> byName = memberRepository.findByName(member.getName());
+
+ctl+alt+shit+t 
+리펙터(extract method)
