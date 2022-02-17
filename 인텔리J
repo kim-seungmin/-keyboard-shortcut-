@@ -8,3 +8,10 @@ ctl+alt+shift+t
 
 shift+f6
 이름변경
+
+alt+enter
+Assertions에서 클릭시
+org.junit.jupiter.api; -> org.junit.jupiter.api.Assertions.*;
+
+shift+F10
+이전 재생
